@@ -1,114 +1,221 @@
 <h1 align="center">Hi 👋, I'm Adesh Singh</h1>
-<h3 align="center">Full Stack Developer • MERN Engineer • Web3 Explorer • Open Source Contributor</h3>
+
+<h3 align="center">
+Full Stack Developer • MERN Engineer • Web3 Explorer
+</h3>
 
 <p align="center">
-  Building scalable web applications, decentralized systems, and real-time experiences.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Real-Time+App+Builder;Web3+%26+Blockchain+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="50%">
 
-- 💻 Full Stack Developer focused on MERN & Next.js ecosystems
-- ⚡ Building scalable apps with modern frontend & backend architectures
-- 🌐 Exploring Web3, decentralized applications, and blockchain systems
-- 🔥 Passionate about real-time apps, Socket.io, and distributed systems
-- 🧠 Strong interest in system design and developer tooling
-- 📚 Constantly learning and contributing to open source
+# 🚀 About Me
+
+```js
+const adesh = {
+  role: "Full Stack Developer",
+
+  technologies: [
+    "MERN",
+    "Next.js",
+    "WebSockets",
+    "Web3"
+  ],
+
+  passions: [
+    "Scalable Applications",
+    "Real-Time Systems",
+    "Decentralized Apps",
+    "Open Source"
+  ],
+
+  currentFocus: "Building impactful software products"
+}
+```
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/adesh-singh-084788287" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<p align="center">
+<a href="https://linkedin.com/in/adesh-singh-084788287">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/adeshsinghsomwanshi" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+<a href="https://instagram.com/adeshsinghsomwanshi">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://youtube.com/@Coder.planet" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="45" />
+<a href="https://youtube.com/@Coder.planet">
+  <img width="48" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
+</a>
+
+<a href="mailto:adeshsingh824@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
-
-📫 Email: **adeshsingh824@gmail.com**
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<div align="center">
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+## 🚀 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,typescript,javascript,html,css" />
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<br/>
+<br/>
 
-### 🔗 Web3 & Tools
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase,appwrite" />
+
+<br/>
+<br/>
+
+## ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github,linux" />
+
+<br/>
+<br/>
+
+## 🧠 Languages & Tools
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,postman,figma,blender" />
+
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+<table>
+<tr>
+<td width="50%">
 
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeshsinghbits&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adeshsinghbits&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adeshsinghbits&theme=tokyonight" />
-</p>
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshsinghbits&layout=compact&theme=tokyonight" />
-</p>
+<td width="50%">
+
+<div align="center">
+
+<img height="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adeshsinghbits&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adeshsinghbits&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
 ---
 
-# 🔥 Current Focus
+<table>
+<tr>
+<td width="50%">
 
-- Scalable MERN applications
-- Real-time systems with Socket.io
-- Decentralized apps using blockchain technologies
-- Advanced frontend architectures
-- Open source contributions
-- System design & developer tooling
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeshsinghbits&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+<img height="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ✨ Quote
+<table>
+<tr>
+<td width="50%">
 
-> “Great software is built through consistency, curiosity, and clean architecture.”
+# 💡 Developer Quote
+
+<div align="center">
+
+### “First, solve the problem. Then, write clean scalable code.”
+
+</div>
+
+<br/>
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adeshsinghbits&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+<img height="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adeshsinghbits&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adeshsinghbits/adeshsinghbits/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Thanks For Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
+</div>
