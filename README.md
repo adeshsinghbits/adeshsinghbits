@@ -136,10 +136,6 @@ const adesh = {
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
 # 🔥 Contribution Graph
 
 <div align="center">
@@ -147,20 +143,6 @@ const adesh = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeshsinghbits&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
-</td>
-
-<td width="50%">
-
-<div align="center">
-
-<img height="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
